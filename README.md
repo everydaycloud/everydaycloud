@@ -18,9 +18,10 @@ Here are some ideas to get you started:
 -->
 ###**Here are my main projects** 🛠️
 
-1. News API Project 📰 - https://github.com/everydaycloud/news-project/blob/main/README.md
-2. Yoga Studio Website 🧘‍♀️ - https://github.com/everydaycloud/CFGfinalproject_yogastudio/blob/Main/README.md
-3. Portfolio Website 🪆 - https://github.com/everydaycloud/my-portfolio/blob/main/README.md
+1. News App 🖋️ - https://github.com/everydaycloud/news-project-frontend/
+2. News API Project 📰 - https://github.com/everydaycloud/news-project/blob/main/README.md
+3. Yoga Studio Website 🧘‍♀️ - https://github.com/everydaycloud/CFGfinalproject_yogastudio/blob/Main/README.md
+4. Portfolio Website 🪆 - https://github.com/everydaycloud/my-portfolio/blob/main/README.md
 
 ###**Commercial websites I built using WordPress** 🤖
 
