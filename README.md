@@ -18,12 +18,12 @@ Here are some ideas to get you started:
 -->
 ###**Here are my main projects** 🛠️
 
-1. Filmz App API 🎥 Python, Flask, PostgreSQL, Pytest - https://github.com/everydaycloud/be-filmz-app
-2. News App 🖋️ React - https://github.com/everydaycloud/news-project-frontend/
-3. News API Project 📰 JavaScript, Express, PosgtreSQL, Jest - https://github.com/everydaycloud/news-project/blob/main/README.md
-4. Python Playwright News Article Scraper 📜 Python, Playwright - https://github.com/everydaycloud/python-playwright-v1#readme
-5. Yoga Studio Website 🧘‍♀️ Vanilla HTML & CSS - https://github.com/everydaycloud/CFGfinalproject_yogastudio/blob/Main/README.md
-6. Portfolio Website 🪆Vanilla HTML & CSS - https://github.com/everydaycloud/my-portfolio/blob/main/README.md
+1. Filmz App API 🎥 Python, Flask, PostgreSQL, Pytest - https://github.com/everydaycloud/be-filmz-app Demo video https://m.youtube.com/watch?time_continue=402&v=79TM0SLNt_A&source_ve_path=Mjg2NjY&feature=emb_logo
+3. News App 🖋️ React - https://github.com/everydaycloud/news-project-frontend/
+4. News API Project 📰 JavaScript, Express, PosgtreSQL, Jest - https://github.com/everydaycloud/news-project/blob/main/README.md
+5. Python Playwright News Article Scraper 📜 Python, Playwright - https://github.com/everydaycloud/python-playwright-v1#readme
+6. Yoga Studio Website 🧘‍♀️ Vanilla HTML & CSS - https://github.com/everydaycloud/CFGfinalproject_yogastudio/blob/Main/README.md
+7. Portfolio Website 🪆Vanilla HTML & CSS - https://github.com/everydaycloud/my-portfolio/blob/main/README.md
 
 ###**Commercial websites I built using WordPress** 🤖
 
