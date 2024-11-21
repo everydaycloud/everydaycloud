@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi there
 
-### My name is Barbara and I'm a software developer and a martial artist - check out my work below 🍳
+### I'm a full stack software developer and a martial artist - check out my work below 🍳
 
 <!--
 **everydaycloud/everydaycloud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -27,9 +27,9 @@ Here are some ideas to get you started:
 
 ### **Commercial websites I built using WordPress** 🤖
 
-1. Waterwise, UK water efficiency charity 💧 - https://www.waterwise.org.uk (designed and built)
-2. Psychotherapy practice 🧠 - https://psychoterapia-powisle.pl (designed and built)
-3. Synergy Wellness Massage 🪷 - https://synergy-wellness.me (redesign)
-4. Vishuddha Yoga Studio 🌊 - https://www.vishuddhayoga.org (SEO optimisation)
+1. Psychotherapy practice 🧠 - https://psychoterapia-powisle.pl (designed and built)
+2. Synergy Wellness Massage 🪷 - https://synergy-wellness.me (redesign)
+3. Vishuddha Yoga Studio 🌊 - https://www.vishuddhayoga.org (SEO optimisation)
+4. Waterwise, UK water efficiency charity 💧 - https://www.waterwise.org.uk (originally designed and built)
 
 
