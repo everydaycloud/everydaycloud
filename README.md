@@ -16,6 +16,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### **Check out my blog** 🛠
+https://everydaycloud.medium.com
+
 ### **Here are my main projects** 🛠️
 
 1. Filmz App API 🎥 Python, Flask, PostgreSQL, Pytest - https://github.com/everydaycloud/be-filmz-app Demo video https://m.youtube.com/watch?time_continue=402&v=79TM0SLNt_A&source_ve_path=Mjg2NjY&feature=emb_logo
