@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### **Check out my blog** 🛠
+### **Check out my blog** 
 https://everydaycloud.medium.com
 
 ### **Here are my main projects** 🛠️
