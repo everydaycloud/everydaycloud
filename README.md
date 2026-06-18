@@ -20,8 +20,9 @@ Here are some ideas to get you started:
 https://everydaycloud.medium.com
 
 ### **Newer Projects** 🛠️
-1. SQL Glowup - SQL formatter (see pinned repos below)
-2. BJJ Club App - CRM App for Martial Arts Clubs - Python, Quart, Postgres, React, Typescript - https://www.bjjclub.app/
+1. Algobetting with logistic regression
+2. SQL Glowup - SQL formatter (see pinned repos below)
+3. BJJ Club App - CRM App for Martial Arts Clubs - Python, Quart, Postgres, React, Typescript - https://www.bjjclub.app/
 
 ### **Older Projects** 🛠️
 
