@@ -22,7 +22,7 @@ https://everydaycloud.medium.com
 ### **Newer Projects** 🛠️
 1. Algobetting with logistic regression
 2. SQL Glowup - SQL formatter (see pinned repos below)
-3. BJJ Club App - CRM App for Martial Arts Clubs - Python, Quart, Postgres, React, Typescript - https://www.bjjclub.app/ (demo repo pinned below)
+3. BJJ Club App - CRM App for Martial Arts Clubs - Python, Quart, Postgres, React, Typescript - https://www.bjjclub.app/ (demo repo [pinned below](https://github.com/everydaycloud/crm-app-showcase))
 
 ### **Older Projects** 🛠️
 
