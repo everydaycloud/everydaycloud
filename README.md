@@ -26,12 +26,12 @@ https://everydaycloud.medium.com
 
 ### **Older**
 
-0. Python Playwright News Article Scraper | Python, Playwright - https://github.com/everydaycloud/python-playwright-v1#readme
-1. Filmz App API | Python, Flask, PostgreSQL, Pytest - https://github.com/everydaycloud/be-filmz-app Demo video https://m.youtube.com/watch?time_continue=402&v=79TM0SLNt_A&source_ve_path=Mjg2NjY&feature=emb_logo
-2. News App | React - https://github.com/everydaycloud/news-project-frontend/
-3. News API Project | JavaScript, Express, PosgtreSQL, Jest - https://github.com/everydaycloud/news-project/blob/main/README.md
-4. Yoga Studio Website | Vanilla HTML & CSS - https://github.com/everydaycloud/CFGfinalproject_yogastudio/blob/Main/README.md
-5. Portfolio Website | Vanilla HTML & CSS - https://github.com/everydaycloud/my-portfolio/blob/main/README.md
+0. Python Playwright News Article Scraper | Python, Playwright ([repo](https://github.com/everydaycloud/python-playwright-v1#readme))
+1. Filmz App API | Python, Flask, PostgreSQL, Pytest ([repo](https://github.com/everydaycloud/be-filmz-app), [demo video](https://m.youtube.com/watch?time_continue=402&v=79TM0SLNt_A&source_ve_path=Mjg2NjY&feature=emb_logo))
+2. News App | React ([repo](https://github.com/everydaycloud/news-project-frontend/))
+3. News API Project | JavaScript, Express, PosgtreSQL, Jest ([repo](https://github.com/everydaycloud/news-project/blob/main/README.md)) 
+4. Yoga Studio Website | Vanilla HTML & CSS ([repo](https://github.com/everydaycloud/CFGfinalproject_yogastudio/blob/Main/README.md))
+5. Test Portfolio Website | Vanilla HTML & CSS ([repo](https://github.com/everydaycloud/my-portfolio/blob/main/README.md))
 
 
 <!--
