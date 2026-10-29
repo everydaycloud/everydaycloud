@@ -1,6 +1,6 @@
 ### Hi there
 
-### I'm a full stack software developer and a martial artist
+### I'm a full stack software engineer and a martial artist
 
 <!--
 **everydaycloud/everydaycloud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,19 +19,19 @@ Here are some ideas to get you started:
 ### **Check out my blog** 
 https://everydaycloud.medium.com
 
-### **Newer Projects** 🛠️
-1. Algobetting with logistic regression
-2. SQL Glowup - SQL formatter (see pinned repos below)
-3. BJJ Club App - CRM App for Martial Arts Clubs - Python, Quart, Postgres, React, Typescript - https://www.bjjclub.app/ (demo repo [pinned below](https://github.com/everydaycloud/crm-app-showcase))
+### **2026**
+0. Can you beat the bookies at the 2026 World Cup? Logistic regression in action ([repo](https://github.com/everydaycloud/world-cup-2026-predictions))
+1. SQL Glowup - SQL formatter for the ["river in the middle"](https://www.sqlstyle.guide) style ([repo](https://github.com/everydaycloud/sql-glowup))
+2. BJJ Club App - CRM App for Martial Arts Clubs - Python, Quart, Postgres, React, Typescript ([repo](https://github.com/everydaycloud/crm-app-showcase))
 
-### **Older Projects** 🛠️
+### **Older**
 
-1. Python Playwright News Article Scraper | Python, Playwright - https://github.com/everydaycloud/python-playwright-v1#readme
-2. Filmz App API | Python, Flask, PostgreSQL, Pytest - https://github.com/everydaycloud/be-filmz-app Demo video https://m.youtube.com/watch?time_continue=402&v=79TM0SLNt_A&source_ve_path=Mjg2NjY&feature=emb_logo
-3. News App | React - https://github.com/everydaycloud/news-project-frontend/
-4. News API Project | JavaScript, Express, PosgtreSQL, Jest - https://github.com/everydaycloud/news-project/blob/main/README.md
-5. Yoga Studio Website | Vanilla HTML & CSS - https://github.com/everydaycloud/CFGfinalproject_yogastudio/blob/Main/README.md
-6. Portfolio Website | Vanilla HTML & CSS - https://github.com/everydaycloud/my-portfolio/blob/main/README.md
+0. Python Playwright News Article Scraper | Python, Playwright - https://github.com/everydaycloud/python-playwright-v1#readme
+1. Filmz App API | Python, Flask, PostgreSQL, Pytest - https://github.com/everydaycloud/be-filmz-app Demo video https://m.youtube.com/watch?time_continue=402&v=79TM0SLNt_A&source_ve_path=Mjg2NjY&feature=emb_logo
+2. News App | React - https://github.com/everydaycloud/news-project-frontend/
+3. News API Project | JavaScript, Express, PosgtreSQL, Jest - https://github.com/everydaycloud/news-project/blob/main/README.md
+4. Yoga Studio Website | Vanilla HTML & CSS - https://github.com/everydaycloud/CFGfinalproject_yogastudio/blob/Main/README.md
+5. Portfolio Website | Vanilla HTML & CSS - https://github.com/everydaycloud/my-portfolio/blob/main/README.md
 
 
 <!--
